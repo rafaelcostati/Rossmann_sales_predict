@@ -59,7 +59,7 @@ Abaixo você poderá observar algumas dessas hipóteses validada por gráficos p
 **H2** - Lojas com competidores mais próximos deveriam vender menos.
 **FALSA**
 <div align="center">
-<img src="img/H2.jpeg" width="1000px">
+<img src="img/H2.jpg" width="1000px">
 </div>
 </br>
 
@@ -68,7 +68,7 @@ Abaixo você poderá observar algumas dessas hipóteses validada por gráficos p
 **H6** - Lojas abertas durante o feriado de Natal deveriam vender mais.
 - **VERDADEIRA** Dentre os feriados, o de natal e pascoa vendem mais.
 <div align="center">
-<img src="img/H6.png" width="1000px">
+<img src="img/H6.jpg" width="1000px">
 </div>
 </br>
 
