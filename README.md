@@ -98,7 +98,7 @@ Single Performance:
 Cross Validation Performance:
 
 | Model Name | MAE | MAPE | RMSE |
-|  --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Linear Regression	| 2081.83 +/- 295.43 | 0.3 +/- 0.02	| 2954.51 +/- 467.88
 | Lasso	2089.08 +/- 326.82 | 0.3 +/- 0.01 |	2990.57 +/- 499.1
 | Random Forest Regressor |	836.61 +/- 217.1 | 0.12 +/- 0.02 | 1254.3 +/- 316.17
@@ -112,7 +112,7 @@ Dentre os modelos testados o Random Forest Regressor obteve uma performance melh
 # 6. Avaliação do Algoritmo
 
 | store | predictions | worst_scenario | best_scenario | MAE | MAPE
-|  --- | --- | --- | --- |
+| --- | --- | --- | --- |  --- | --- |
 |	292	| 104582.81250 | 101252.462145 | 107913.162855 | 3330.350355 |	0.554214
 |	909	| 232751.62500 | 225090.438986 | 240412.811014 | 7661.186014 |	0.513651
 |	876 | 205953.12500 | 202059.084271 | 209847.165729 | 3894.040729 |	0.302213
@@ -121,6 +121,7 @@ Dentre os modelos testados o Random Forest Regressor obteve uma performance melh
 
 
 | Scenario | Values
+| --- | --- |
 | predictions |	R$284,031,872.00
 | worst_scenario |	R$283,319,667.11
 | best_scenario | R$284,744,059.34
