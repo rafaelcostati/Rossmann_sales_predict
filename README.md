@@ -141,7 +141,7 @@ Exemplo de funcionamento do bot:
 <br>
 
 <div align="center">
-<img src="img/video.webp" width="1000px">
+<img src="img/video1.webp" width="1000px">
 </div>
 </br>
 
