@@ -137,6 +137,7 @@ Uma vez que o usuário realizar uma consulta informando o ID da loja a qual dese
 
 
 Exemplo de funcionamento do bot:
+link: http://t.me/rosmaaannbot
 
 <br>
 
